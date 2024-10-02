@@ -7,5 +7,8 @@
   "devDependencies": {
     "changelog-parser": "^3.0.1",
     "esmock": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=20 <23"
   }
 }
